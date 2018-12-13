@@ -1,4 +1,4 @@
-# Ethereum Web3 Node Tutorial
+# Ethereum Web3 Node 
 
 ## Requirements
 
@@ -10,9 +10,7 @@ Install the tutorial dependencies by running `npm install` or `yarn`
 
 Then, create a file named `.env` and save it to the root directory of the project. This file will hold your sensitive credentials and will be ignored by the Git repository, so it won't be uploaded or shared anywhere.
 
-Follow the tutorial at https://davekiss.com/ethereum-web3-node-tutorial and happy hacking/hodling!
-
-If this tutorial helps you make boatloads of magic internet money, don't forget to give back: `0xDcd2E5A0641C1A50d4b2a79288C83896E9912b08`
+The xlsx file must have a 'Adresse ethereum du wallet' column
 
 ### Helpful Resources
 
